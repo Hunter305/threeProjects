@@ -1,0 +1,15 @@
+.container{
+    margin-top: 25%;
+    color: white;
+    font-weight: bold;
+    font-size:larger;
+    width: 950px;
+    
+}
+body{
+    background-image: url("ren.jpg");
+}
+h1,h3,p{
+    background-color: orange;
+    
+}

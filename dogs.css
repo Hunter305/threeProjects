@@ -1,0 +1,14 @@
+img{
+    height: 31.25rem;
+    width: 31.25rem;
+    
+    margin-top: 25%;
+}
+body{
+    background-image: url("dog.jpg");
+}
+.btn{
+    position: absolute;
+    margin-top: 15%;
+    
+}
